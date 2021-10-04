@@ -9,6 +9,9 @@ Please see the *examples* folder or in-code documentation of classes and functio
 library capabilities as well as the original documentation of the
 [BrickSet API](https://brickset.com/article/52664/api-version-3-documentation).
 
+See also a similar tool for [Rebrickable.com](https://rebrickable.com/) called [rebrick](https://github.com/xxao/rebrick).
+
+
 ## Tool Example
 
 ```python
