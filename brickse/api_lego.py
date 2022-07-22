@@ -25,7 +25,7 @@ def get_sets(query=None, set_id=None, set_number=None, theme=None, subtheme=None
         theme: str, int or (int,)
             Theme name or ID(s).
         
-        theme: str, int or (int,)
+        subtheme: str, int or (int,)
             Sub-theme name or ID(s).
         
         year: int or (int,)
